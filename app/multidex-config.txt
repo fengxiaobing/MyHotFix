@@ -1,0 +1,3 @@
+com/bing/myhotfix/MainActivity.class
+com/bing/myhotfix/BaseActivity.class
+com/bing/myhotfix/BaseApplication.class
